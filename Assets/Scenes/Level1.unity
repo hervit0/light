@@ -334,6 +334,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 4
   rigidbody: {fileID: 697259263}
+  jumpForce: 5
+  spriteRenderer: {fileID: 1913873444}
 --- !u!1 &835288037
 GameObject:
   m_ObjectHideFlags: 0
